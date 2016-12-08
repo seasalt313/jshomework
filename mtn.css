@@ -1,0 +1,11 @@
+body {
+  margin: 100px;
+  text-align: left;
+  list-style: none;
+  background: maroon;
+  color: lightgrey;
+  border: 2px dashed grey;
+  padding: 50px;
+  /*font-family: 'Roboto', sans-serif;*/
+
+}
